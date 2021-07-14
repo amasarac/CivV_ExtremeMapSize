@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0e244224-6a2d-4fdb-9707-679e0abcbed9" version="1">
+  <Properties>
+    <Name>Civ V Extreme Map Size</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>this mod increases the size of all maps, compatible with multiplayer and all DLC content. this mod also rebalances the game for</Teaser>
+    <Description>this mod increases the size of all maps, compatible with multiplayer and all DLC content. this mod also rebalances the game for larger maps.</Description>
+    <Authors>Amasarac</Authors>
+    <SpecialThanks>Exletrum, Mad Science Minecraft</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7885D7B830479968E6E0CE1AC687D18A" import="0">World_Sizes_New.xml</File>
+  </Files>
+</Mod>

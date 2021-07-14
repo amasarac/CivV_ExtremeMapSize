@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	
+	<Worlds>
+		<Update>
+			<Where	Type="WORLDSIZE_DUEL"/>
+			<Set	GridWidth="80"
+					GridHeight="50"
+			/>
+		</Update>
+		<Update>
+			<Where	Type="WORLDSIZE_TINY"/>
+			<Set	GridWidth="100"
+					GridHeight="70"
+			/>
+		</Update>
+		<Update>
+			<Where	Type="WORLDSIZE_SMALL"/>
+			<Set	GridWidth="100"
+					GridHeight="75"
+			/>
+		</Update>
+		<Update>
+			<Where	Type="WORLDSIZE_STANDARD"/>
+			<Set	GridWidth="160"
+			        GridHeight="80"
+			/>
+		</Update>
+		<Update>
+			<Where	Type="WORLDSIZE_LARGE"/>
+			<Set	GridWidth="148"
+			        GridHeight="80"
+			/>
+		</Update>
+		<Update>
+			<Where	Type="WORLDSIZE_HUGE"/>
+			<Set	GridWidth="180"
+			        GridHeight="94"
+					FogTilesPerBarbarianCamp="45"
+					NumNaturalWonders="11"
+					NumCitiesUnhappinessPercent="100"
+			/>
+		</Update>
+	</Worlds>
+	
+</GameData>
